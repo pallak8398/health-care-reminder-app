@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Health Care Reminder</string>
+    <string name="buttongeneral">GENERAL</string>
+    <string name="title">TitleGeneral</string>
+    <string name="dategeneralbutton">Select a Date</string>
+    <string name="titlegeneral">Title Of General Reminder</string>
+    <string name="dategeneral">Date</string>
+    <string name="timegeneral">Time</string>
+    <string name="timegeneralbutton">SELECT A TIME</string>
+    <string name="text1general">HH : MM</string>
+    <string name="repeat_after_days_general">Repeat after days :</string>
+    <string name="savegeneralbutton">SAVE</string>
+    <string name="show">SHOW</string>
+
+    <string name="submit">Submit</string>
+    <string name="exercise">EXERCISE</string>
+    <string name="hello">Start Date</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="set_exercise_name">Set Exercise Name</string>
+    <string name="set_time">Set Time</string>
+    <string name="hh_mm">HH:MM</string>
+    <string name="repeat_after">Repeat after</string>
+    <string name="days">days</string>
+    <string name="add">Add</string>
+    <string name="general">General</string>
+    <string name="exercise1">Exercise</string>
+    <string name="medicine">Medicine</string>
+    <string name="water">Water</string>
+    <string name="hh_mm_general">HH:MM</string>
+
+    <string name="day_frequency">Day Frequency</string>
+    <string name="_0">0</string>
+    <string name="ht">00:00</string>
+    <string name="interval">Interval</string>
+    <string name="add_medicine">Add</string>
+    <string name="day">mm/dd/yyyy</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="frequency">Frequency</string>
+    <string name="med_name">Name of the medicine</string>
+    <string name="name">Name</string>
+    <string name="medicine_rem">Medicine Reminder</string>
+    <string name="add_field">Add Field</string>
+    <string name="BACK">back</string>
+</resources>
